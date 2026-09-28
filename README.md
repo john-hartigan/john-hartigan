@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm John, a data engineer based in Ireland.
 
+I work mostly in the backend - SQL and Python.
 <!--
 **john-hartigan/john-hartigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
